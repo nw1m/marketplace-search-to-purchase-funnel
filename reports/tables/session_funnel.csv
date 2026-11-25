@@ -1,0 +1,6 @@
+event_name,step,sessions,conversion_from_search,conversion_from_previous
+search_submitted,Поиск,4200,1.0,1.0
+product_viewed,Просмотр товара,2994,0.7128571428571429,0.7128571428571429
+add_to_cart,Добавление в корзину,850,0.20238095238095238,0.28390113560454244
+checkout_started,Начало оформления,532,0.12666666666666668,0.6258823529411764
+purchase_completed,Покупка,351,0.08357142857142857,0.6597744360902256
